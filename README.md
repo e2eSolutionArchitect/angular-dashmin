@@ -14,7 +14,7 @@ Read our contributing guide to learn about our development process, how to propo
 Your contribution is valuable. The release will mention the contributors name. 
 
 # Good First Issues
-To help you get your feet wet and get you familiar with our contribution process, we have a list of good first issues that contain bugs that have a relatively limited scope. This is a great place to get started.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of good first issues that contain bugs that have a relatively limited scope. This is a great place to get started. Check [Issue list](https://github.com/e2eSolutionArchitect/angular-dashmin/issues)
 
 # License
 This repository is MIT licensed.

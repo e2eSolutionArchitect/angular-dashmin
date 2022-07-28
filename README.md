@@ -1,4 +1,4 @@
-# angular-dashmin
+# Angular-Dashmin
 An Open Source project to create an Admin Dashboard with Angular
 
 # Contributing

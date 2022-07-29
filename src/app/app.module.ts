@@ -9,12 +9,24 @@ import { RegisterComponent } from './components/auth/register/register.component
 import { AngularMaterialModule } from './angular-material.modules';
 import { FlexLayoutModule } from "@angular/flex-layout";
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { HomeComponent } from './components/home/home.component';
+import { LayoutComponent } from './components/layout/layout.component';
+import { HorizontalComponent } from './components/layout/layouts/horizontal/horizontal.component';
+import { VerticalComponent } from './components/layout/layouts/vertical/vertical.component';
+import { UserComponent } from './components/common/user/user.component';
+import { EmptyComponent } from './components/layout/layouts/empty/empty.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignInComponent,
-    RegisterComponent
+    RegisterComponent,
+    HomeComponent,
+    LayoutComponent,
+    HorizontalComponent,
+    VerticalComponent,
+    UserComponent,
+    EmptyComponent
   ],
   imports: [
     BrowserModule,

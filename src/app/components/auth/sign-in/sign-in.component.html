@@ -14,7 +14,15 @@
           </mat-form-field>
         </mat-card-content>
         <button mat-raised-button color="primary" class="btn-block">Sign in</button>
+      <!-- Actions -->
+      <div class="inline-flex items-end justify-between w-full mt-1.5">
+        New user <a
+            class="text-md font-medium text-primary-500 hover:underline"
+            [routerLink]="['/register']"> Sign Up
+        </a>
+    </div>
       </form>
+      
     </mat-card>
   </div>
     </div>

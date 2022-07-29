@@ -1,1 +1,25 @@
-<p>home works!</p>
+<div class="w-full max-w-3xl">
+    <div class="max-w-none mx-auto prose prose-sm">
+        <img
+            class="w-20"
+            src="../../../assets/images/logo/logo.png"
+            alt="Logo image">
+        <h1>Landing Module</h1>
+        <p>
+            Welcome to Landing module</p>
+        <p>
+            A basic module for you to start building any enhanced component</p>
+    </div>
+    <div>
+        <a
+            class="mt-8"
+            mat-flat-button
+            [color]="'primary'"
+            [routerLink]="'/dashboards/summary'">
+            <span>Launch the App</span>
+            <mat-icon
+                class="ml-2 icon-size-5"
+                [svgIcon]="'heroicons_solid:arrow-narrow-right'"></mat-icon>
+        </a>
+    </div>
+</div>

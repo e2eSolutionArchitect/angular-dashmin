@@ -27,7 +27,12 @@
             </section>
         </mat-card-content>
         <button mat-raised-button color="primary" class="btn-block">Sign Up</button>
-       </form>
+        <div class="inline-flex items-end justify-between w-full mt-1.5">
+        Already user? <a
+        class="text-md font-medium text-primary-500 hover:underline"
+        [routerLink]="['/signin']">Sign in</a> </div>
+      </form>
     </mat-card>
+
   </div>
 </div>

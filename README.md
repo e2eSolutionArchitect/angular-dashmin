@@ -1,8 +1,7 @@
 # Angular-Dashmin
 An Open Source project to create an Admin Dashboard with Angular
 
-<img width="1436" alt="image" src="https://user-images.githubusercontent.com/62712515/181852779-dcb098f5-45e2-4020-b97b-ac7cf8ea7fe2.png">
-
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/62712515/181852859-217c1740-3edf-4a18-b8ce-5c28e70d0a31.png">
 
 # Contributing
 The main purpose of this repository is to collaborate and develop an Angular admin dashboard. Your contribution is valuable for everyone. It will help anyone to use this admin dashboard as a base for vanilla implementation.

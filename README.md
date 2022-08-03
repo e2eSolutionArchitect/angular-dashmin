@@ -6,7 +6,7 @@ An Open Source project to create an Admin Dashboard with Angular
 # Contributing
 The main purpose of this repository is to collaborate and develop an Angular admin dashboard. Your contribution is valuable for everyone. It will help anyone to use this admin dashboard as a base for vanilla implementation.
 
-![open-source-e2esa-workflow](https://user-images.githubusercontent.com/62712515/182512808-d7e778e0-bedb-4de6-a2f6-fc7fb7812622.png)
+![open-source-e2esa-workflow1](https://user-images.githubusercontent.com/62712515/182514110-84ca9321-39cc-4e3f-a783-a03d25edb960.png)
 
 
 # [Code of Conduct](https://e2esolutionarchitect.com/open-source-guide)
